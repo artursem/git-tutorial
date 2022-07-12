@@ -1,3 +1,3 @@
 # chapter 2
 
-this is a second chapter
+this is a second chapter. it's slightly longer
