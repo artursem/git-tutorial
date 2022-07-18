@@ -2,3 +2,4 @@
 
 this is a second chapter. it's slightly longer.
 actually it's multiline.
+some additional text.
